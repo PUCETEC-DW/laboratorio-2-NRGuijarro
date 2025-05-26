@@ -1,0 +1,9 @@
+{
+  "homepage": "https://nrguijarro.github.io/laboratorio-1-web-personal-NRGuijarro/",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
