@@ -1,5 +1,5 @@
 {
-  "homepage": "https://nrguijarro.github.io/laboratorio-1-web-personal-NRGuijarro/",
+  "homepage": "https://nrguijarro.github.io/laboratorio-2-NRGuijarro/",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
